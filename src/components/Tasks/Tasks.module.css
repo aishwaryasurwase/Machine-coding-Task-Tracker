@@ -1,0 +1,9 @@
+.task_list_item{
+    margin: 1rem 0;
+    border: 1px solid black;
+    padding: 1rem;
+    width: 90%;
+    position: relative;
+    text-align: start;
+    box-sizing: border-box;
+}

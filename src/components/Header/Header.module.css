@@ -1,0 +1,21 @@
+.taskHeader {
+    padding: 2rem;
+}
+
+.heading {
+    width: 70%;
+    display: inline-block;
+    font-size: 1.5rem;;
+    box-sizing: border-box;
+}
+
+.btn {
+    width: 30%;
+    float: right;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+
+}
